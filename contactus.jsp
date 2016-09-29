@@ -8,7 +8,7 @@
 <html lang="en">
     <!--<![endif]-->
     <head>
-        <title>Movie Portfolio</title>
+        <title>contact us</title>
         <!-- Meta -->
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="">
@@ -65,7 +65,7 @@
                         <!-- Logo -->
                         <div class="logo">
                             <a href="index.html">
-                                <img src="assets/img/logo.jpg" alt="Logo" width="392" height="58" />
+                                <img src="assets/img/Showtime_logo.jpg" alt="Logo" width="392" height="58" />
                             </a>
                         </div>
                         <!-- End Logo -->
@@ -99,8 +99,7 @@
                                                     <a href="logout.jsp">Logout</a>
                                                 </li>
                                             </ul>   
-                                        <li>
-                                        <a href="portfolio_col2.jsp">Movie Portfolio</a>                                        </li>
+                                        
                                         <li>
                                             <a href="contactus.jsp">Contact Us</a>
                                         </li>
@@ -126,10 +125,10 @@
                                         <center> <figure>
 <div class="col-md-3">
                                 <h2 class="margin-bottom-10">Contact Details</h2><br>
-                              <p>A&S </p>
-                              <p>M.I.T Moradabad </p>
-                             <p> Computer Science Dept.</p>
-                              <p> U.P, India </p>
+                              <p>Ayush Rastogi<br><br> </p>                 
+                              M.I.T Moradabad <br><br>                
+                             Computer Science Dept.<br><br>          
+                               U.P, India             <br> <br>       
                              <b>Email:<b>ayush07itsme@gmail.com
                                 <br>
                                 <p>Website: <a href="http://www.website.com">www.showtime.com</a></p>
